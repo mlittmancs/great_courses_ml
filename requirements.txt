@@ -197,7 +197,7 @@ nbformat==5.0.6
 networkx==2.4
 nibabel==3.0.2
 nltk==3.2.5
-notebook==5.2.2
+notebook==5.7.8
 np-utils==0.5.12.1
 numba==0.48.0
 numexpr==2.7.1
