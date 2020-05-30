@@ -2,4 +2,4 @@
 code and data for ML-teachco-9070
 
 
-link here
+https://colab.research.google.com/github/mlittmancs/great_courses_ml/blob/master/L02.ipynb
