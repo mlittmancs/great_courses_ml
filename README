@@ -1,0 +1,39 @@
+1234567890123456789012345678901234567890123456789012345678901234567890
+
+Code and data (and a little guidence) for "Introduction to Machine
+Learning" (ML-teachco-9070), taught by Michael Littman for The Great
+Courses.
+
+The files here consist of several types:
+
+- Files with names like Lxx.ipynb are the program files discussed in
+  each of the specific lessons, 01 to 25. With these files, you can
+  follow along with the lessons.
+
+- Files with names like Lxxaux.ipynb are program files used by the
+  instructor in the lesson, but that are not discussed explicitly.
+
+- Files with names like Lxxqs.ipynb are program files associated with
+  the practice problems for each lesson (problem 3 in the guidebook 
+  for each lesson).
+
+To the extent it doesn't break functionality, sweeping other files
+into a subfolder called OTHER, or distributing into lesson-specific
+sub-sub folders would help move out of first-sight the other files.
+For example, finding a lower-level place to put the text files, and
+CSV files, and a stray JPG file that currently appear in the top level:
+
+
+
+OK, in that case (so as not to let the "best" be the enemy of the "good"), just reorganize the zip file subfolder structure and write a short READ ME explaining what the files are.  The top level structure could be:
+
+-README about Files Provided
+-Getting Start with Python Notebooks and Colab (Lesson 2 guidebook file) - attached
+-The Program Files [a top-level subfolder containing everything]
+
+It's not clear to me whether the substructure inside "The Program Files" could get cleaned up in any way without breaking dependencies, but it's sounding like not.
+
+Btw, we have been getting requests for the zipped program files from the course page support team, so as soon as you can turn to that would be welcome.
+
+
+https://colab.research.google.com/github/mlittmancs/great_courses_ml/blob/master/L02.ipynb
