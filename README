@@ -8,10 +8,11 @@ The files here consist of several types:
 
 - Files with names like Lxx.ipynb are the program files discussed in
   each of the specific lessons, 01 to 25. With these files, you can
-  follow along with the lessons.
+  follow along with the lessons. Every lesson has such a file.
 
 - Files with names like Lxxaux.ipynb are program files used by the
   instructor in the lesson, but that are not discussed explicitly.
+  Not every lesson has one of these "auxillary" files.
 
 - Files with names like Lxxqs.ipynb are program files associated with
   the practice problems for each lesson (problem 3 in the guidebook 
@@ -22,7 +23,12 @@ To execute any of these program files, use a link like:
 https://colab.research.google.com/github/mlittmancs/great_courses_ml/blob/master/L02.ipynb ,
 
 which is the program associated with the "Getting Start with Python
-Notebooks and Colab" lesson, Lesson 02.
+Notebooks and Colab" lesson, Lesson 02. Just take out the L02 and put
+in L16qs or whatever the name of the file is that you want to work
+with. Direct links to these files are provided in the course
+guidebook.
+
+zzz
 
 To the extent it doesn't break functionality, sweeping other files
 into a subfolder called OTHER, or distributing into lesson-specific
