@@ -22,38 +22,31 @@ The program files provided here consist of three types:
   
 - AUXILIARY ("aux") files are provided for background information for
   those curious to explore other elements that appear on screen during
-  lessons: Files with names like L01aux, L03aux, and so on are
+  lessons. Files with names like L01aux.ipynb, L03aux.ipynb, and so on
+  are used by the instructor in the lesson, but that are not discussed
+  explicitly. Not every lesson has one of these "auxillary" files. Note:
+  Even users making diligent use of the FOLLOW ALONG and QUESTIONS
+  program files can skip the AUXILIARY files. 
+
+- QUESTIONS ("qs") FOR MORE PRACTICE are program files with names like
+  L01qs.ipynb, L02qs.ipynb, and so on. They are associated with the
+  practice problems for each lesson (which appear in the guidebook 
+  for each lesson as question number 3).
   
-  .ipynb are program files used by the
-  instructor in the lesson, but that are not discussed explicitly.
-  Not every lesson has one of these "auxillary" files. Note: Even users making diligent use of the FOLLOW ALONG and QUESTIONS program files can skip attention to the AUXILIARY files without loss. 
+Direct links to all program files are provided through the course
+guidebook and through The Great Courses website. You can also access
+them directly using a link like:
 
+https://colab.research.google.com/github/mlittmancs/great_courses_ml/blob/master/L02.ipynb .
 
+This particular link is the program associated with the "Starting with
+Python Notebooks and Colab" lesson, Lesson 02. To access any other file,
+simply take out the L02 in the above link and put in L16qs, or whatever
+the name of the file is that you want to work with next.
+************************************************************************
 
-
-- Files with names like Lxx.ipynb are the program files discussed in
-  each of the specific lessons, 01 to 25. With these files, you can
-  follow along with the lessons. Every lesson has such a file.
-
-- Files with names like Lxxaux.ipynb are program files used by the
-  instructor in the lesson, but that are not discussed explicitly.
-  Not every lesson has one of these "auxillary" files.
-
-- Files with names like Lxxqs.ipynb are program files associated with
-  the practice problems for each lesson (problem 3 in the guidebook 
-  for each lesson).
-  
-To execute any of these program files, use a link like:
-
-https://colab.research.google.com/github/mlittmancs/great_courses_ml/blob/master/L02.ipynb ,
-
-which is the program associated with the "Getting Start with Python
-Notebooks and Colab" lesson, Lesson 02. Just take out the L02 and put
-in L16qs or whatever the name of the file is that you want to work
-with. Direct links to these files are provided in the course
-guidebook.
-
-Also in this file repository are:
+This file repository also includes three other sets of files necessary
+to run the program files:
 
 - imgs: A directory of images used by the program files.
 
@@ -61,5 +54,12 @@ Also in this file repository are:
 
 - requirements.txt: A file required by colab that lists library
   dependencies.
-
+  
 - README: This file.
+
+************************************************************************
+
+Frequently asked questions: Errata, clarifications, and other tips we
+discover will be listed below.
+
+
