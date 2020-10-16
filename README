@@ -2,17 +2,34 @@
 ************************************************************************
 
 
-Code and data (and a little guidence) for "Introduction to Machine
-Learning" (ML-teachco-9070), taught by Michael Littman for The Great
-Courses.
+This README describes the code and data provided to accompany
+"Introduction to Machine Learning" (ML-teachco-9070), taught by Michael 
+Littman for The Great Courses.
 
-For information getting started, please see:
+For more information getting started, please see the accompanying file:
 
-- Introduction to Machine Learning L02.pdf: The section from the course
-  guidebook on that details how to get started with Python notebooks and
-  Colab. For access to the rest of the guidebook, sign up for the course!
+- Introduction to Machine Learning L02.pdf: This pdf is the section
+  from the course guidebook that details how to get started with Python
+  notebooks and Colab. For access to the rest of the guidebook, sign up
+  for the course itself at TheGreatCourses.com!
 
-The files here consist of several types:
+The program files provided here consist of three types:
+
+- FOLLOW ALONG during or after lessons using the program files with
+  simple names like L01.ipynb, L02.ipynb, and so on. They are in the
+  .ipynb format discussed in Lesson 02 and are included for each of the
+  specific lessons, from 02 to 25.
+  
+- AUXILIARY ("aux") files are provided for background information for
+  those curious to explore other elements that appear on screen during
+  lessons: Files with names like L01aux, L03aux, and so on are
+  
+  .ipynb are program files used by the
+  instructor in the lesson, but that are not discussed explicitly.
+  Not every lesson has one of these "auxillary" files. Note: Even users making diligent use of the FOLLOW ALONG and QUESTIONS program files can skip attention to the AUXILIARY files without loss. 
+
+
+
 
 - Files with names like Lxx.ipynb are the program files discussed in
   each of the specific lessons, 01 to 25. With these files, you can
