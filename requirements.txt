@@ -320,7 +320,7 @@ tblib==1.6.0
 tensorboard==2.2.1
 tensorboard-plugin-wit==1.6.0.post3
 tensorboardcolab==0.0.22
-tensorflow==2.2.0
+tensorflow==2.3.1
 tensorflow-addons==0.8.3
 tensorflow-datasets==2.1.0
 tensorflow-estimator==2.2.0
