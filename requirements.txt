@@ -42,7 +42,7 @@ coverage==3.7.1
 coveralls==0.5
 crcmod==1.7
 cufflinks==0.17.3
-cvxopt==1.2.5
+cvxopt==1.2.7
 cvxpy==1.0.31
 cycler==0.10.0
 cymem==2.0.3
