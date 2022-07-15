@@ -55,7 +55,7 @@ decorator==4.4.2
 defusedxml==0.6.0
 descartes==1.1.0
 dill==0.3.1.1
-distributed==1.25.3
+distributed==2021.10.0
 Django==3.0.6
 dlib==19.18.0
 docopt==0.6.2
