@@ -358,7 +358,7 @@ vega-datasets==0.8.0
 wasabi==0.6.0
 wcwidth==0.1.9
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 widgetsnbextension==3.5.1
 wordcloud==1.5.0
 wrapt==1.12.1
