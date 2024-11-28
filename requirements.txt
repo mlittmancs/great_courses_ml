@@ -150,7 +150,7 @@ jaxlib==0.1.47
 jdcal==1.4.1
 jedi==0.17.0
 jieba==0.42.1
-Jinja2==2.11.2
+Jinja2==2.11.3
 jmespath==0.10.0
 joblib==0.15.1
 jpeg4py==0.1.4
