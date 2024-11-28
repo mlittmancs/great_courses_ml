@@ -243,7 +243,7 @@ psycopg2==2.7.6.1
 ptvsd==5.0.0a12
 ptyprocess==0.6.0
 py==1.8.1
-pyarrow==0.14.1
+pyarrow==0.15.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycocotools==2.0.0
